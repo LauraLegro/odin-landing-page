@@ -14,7 +14,7 @@ body {
 header {
     display: flex;
     justify-content: space-between;
-    align-items: flex-start;
+    align-items: center;
     height: 100px;
     background-color: #1f2937;
     padding: 20px;
@@ -93,6 +93,7 @@ button {
     padding: 40px 40px;
     background-color: #999fa9;
 }
+
 .random {
     padding: 10px;
 }
