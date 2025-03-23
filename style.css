@@ -75,9 +75,13 @@ button {
     flex-direction:row;
     align-items:center;
     justify-content:space-evenly;
-    
-    
+
     padding: 30px 30px;
+}
+.right {
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 .testimonial {
     background-color:#E5E7EB; 
