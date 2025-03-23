@@ -41,7 +41,9 @@ h2 {
     color: #f9faf8;
     font-size: 24px;
 }
-
+p {
+    color:#f9faf8
+}
 ul {
     display: flex;
     justify-content: space-evenly;
@@ -69,8 +71,20 @@ button {
     background-color:#E5E7EB; 
     padding: 40px 40px;
 }
+.testimonial p {
+    color:#1f2937;
+    font-size: 36px;
+    font-weight: lighter;
+    font-style: italic;
+}
 .cta {
     padding: 40px 40px;
+}
+.random {
+    padding: 10px;
+}
+section > h2 {
+    color:#1f2937
 }
 footer {
     background-color: #1F2937;
