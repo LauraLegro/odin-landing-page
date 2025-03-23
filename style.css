@@ -25,7 +25,7 @@ main {
     justify-content: space-evenly;
     align-items: center;
     background-color:#1f2937;
-    padding: 20px;
+    padding: 30px;
 }
 nav {
     display: flex;
@@ -79,14 +79,26 @@ button {
 }
 .cta {
     padding: 40px 40px;
+    background-color: #999fa9;
 }
 .random {
     padding: 10px;
+}
+.random > h2 {
+    margin: 20px;
+    text-align: center;
+}
+.random > img {
+    padding: 20px;
+    text-align: center;
+    margin: 10px;
 }
 section > h2 {
     color:#1f2937
 }
 footer {
+    text-align: center;
     background-color: #1F2937;
     padding: 20px;
+    color:#E5E7EB
 }
